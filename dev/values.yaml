@@ -1,4 +1,4 @@
 hello-world-configmap:
-    replicaCount: 11
+    replicaCount: 1
     app:
       content: "alex was here!"
