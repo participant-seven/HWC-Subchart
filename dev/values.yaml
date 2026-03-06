@@ -1,4 +1,4 @@
 hello-world-configmap:
     replicaCount: 1
     app:
-      content: "hola"
+      content: "All your base are belong to us"
